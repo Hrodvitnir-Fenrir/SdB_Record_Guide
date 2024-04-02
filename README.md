@@ -107,7 +107,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 
 ***
 
-### Seelseries moments
+## Seelseries moments
 <details>
   <summary>Installation</summary>
 </details>
