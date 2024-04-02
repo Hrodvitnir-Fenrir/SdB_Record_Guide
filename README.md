@@ -1,6 +1,8 @@
 # Guide d'enregistrement d'écran pour la Salle de Briefing
 [![Discord SdB](https://img.shields.io/discord/258541615017099264.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/sdb)
 
+## ⚠ Guide en cour de conception, c'est une ébauche sans travail de relecture ⚠
+
 ### Dans ce guide vous trouverais une aide complète pour faire un clip de vos sessions en jeu
 *Penser a cliquer sur cette iconne pour faire dérouler le texte quand elle est présente : `▶`*
 
@@ -92,7 +94,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
       		<br>
       		<img src="https://i.imgur.com/tOXaiWt.png" alt="Superposition en jeu">
 			<br>
-			<blockquote style="font-style: italic;">par ailleurs dans la section <code>pilotes</code>vous pouvez mettre a jour votre carte graphique Nvidia.</blockquote>
+			<blockquote style="font-style: italic;">par ailleurs dans la section <code>pilotes</code> vous pouvez mettre a jour votre carte graphique Nvidia.</blockquote>
     	</li>
 		<li>
 			Vous pouvez faire <code>Alt+z</code> pour ouvrir l'interface, vous aurez donc plusieurs options disponible : "Replay instantané", "Enregistrement", "Diffusion en direct".
