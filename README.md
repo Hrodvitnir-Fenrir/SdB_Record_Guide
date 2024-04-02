@@ -83,7 +83,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   <summary>Installation</summary>
   	<ul>
 		<li>
-  			Pour commencer télécharger l'installeur <a target="_blank" href="https://www.nvidia.com/fr-fr/geforce/geforce-experience/">ici.</a>
+  			Pour commencer télécharger l'installeur <a href="https://www.nvidia.com/fr-fr/geforce/geforce-experience/">ici.</a>
 			<br>
 			(<code>https://www.nvidia.com/fr-fr/geforce/geforce-experience/</code>)
 		</li>
