@@ -20,7 +20,20 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 <details open>
 	<summary>Oui mais du coup, le quel choisir ?</summary>
 
-  
+  - Geforce Experience :
+	```
+	🟢 En une touche enregistre les X dernières minutes
+	🟢 Capture en qualitée élevée
+	🟢 Permet de stream et de mettre en ligne ses vidéo sur youtube facilement
+	🔻 Limité uniquement aux carte graphique Nvidia
+	🔻 Prend les performances sur la carte graphique
+	```
+
+- Radeon ReLive (WIP ⚠):
+	```
+	🔻 Limité uniquement aux carte graphique Amd
+	🔻 Prend les performances sur la carte graphique
+	```
 </details>
 
 ## Guide d'installation et d'utilisation
