@@ -78,7 +78,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 
 ## Guide d'installation, configuration et d'utilisation
 
-#### Geforce experience
+### Geforce experience
 <details>
   <summary>Installation</summary>
   blabalbla
@@ -91,7 +91,9 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   
 </details>
 
-#### Radeon ReLive
+***
+
+### Radeon ReLive
 <details>
   <summary>Installation</summary>
 </details>
@@ -103,7 +105,9 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   
 </details>
 
-#### Seelseries moments
+***
+
+### Seelseries moments
 <details>
   <summary>Installation</summary>
 </details>
@@ -115,7 +119,9 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   
 </details>
 
-#### Medal
+***
+
+### Medal
 <details>
   <summary>Installation</summary>
 </details>
@@ -127,7 +133,9 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   
 </details>
 
-#### Outplayed
+***
+
+### Outplayed
 <details>
   <summary>Installation</summary>
 </details>
