@@ -70,15 +70,15 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 > [!TIP]
 > En résumé :
 > 
-> Si vous possédez une grosse carte graphique, passez directement par le logiciel de votre carte graphique [Geforce Experience](###Geforce-experience) ou [`Radeon ReLive`](###Radeon-ReLive). Le logiciel est nécéssaire pour mettre a jour votre carte grapgique également, donc d'une pierre deux coup
+> Si vous possédez une grosse carte graphique, passez directement par le logiciel de votre carte graphique [Geforce Experience](###geforce-experience) ou [`Radeon ReLive`](###radeon-relive). Le logiciel est nécéssaire pour mettre a jour votre carte grapgique également, donc d'une pierre deux coup
 >
-> Si vous possédez un gros processeur , privilégiez plutôt [`Medal`](###Medal) ou [`Outplayed`](###Outplayed) pour forcer l'enregistrement sur votre processeur
+> Si vous possédez un gros processeur , privilégiez plutôt [`Medal`](###medal) ou [`Outplayed`](###outplayed) pour forcer l'enregistrement sur votre processeur
 >
-> Sinon, [Seelseries moments](###Seelseries-moments) est une bonne alternative, en utilisant la ram, généralement peu utiliser sur les jeux, et surtout a très peu d'impact sur les performances
+> Sinon, [Seelseries moments](###seelseries-moments) est une bonne alternative, en utilisant la ram, généralement peu utiliser sur les jeux, et surtout a très peu d'impact sur les performances
 
 ## Guide d'installation, configuration et d'utilisation
 
-### Geforce experience
+### Geforce Experience
 <details>
   <summary>Installation</summary>
   blabalbla
@@ -107,7 +107,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 
 ***
 
-## Seelseries moments
+## Seelseries Moments
 <details>
   <summary>Installation</summary>
 </details>
