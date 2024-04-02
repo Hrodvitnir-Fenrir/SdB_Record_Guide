@@ -17,7 +17,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 > Plus d'informations [ici](#performances).
 
 ## Avantages et inconvénient
-<details>
+<details open>
 	<summary>Oui mais du coup, le quel choisir ?</summary>
 
   - Geforce Experience :
@@ -67,6 +67,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 
 > [!TIP]
 > Résumé :
+> 
 > Si vous possédez une grosse carte graphique, passez directement par le logiciel de votre carte graphique [`Geforce Experience`]() ou [`Radeon ReLive`](). Le logiciel est nécéssaire pour mettre a jour votre carte grapgique également, donc d'une pierre deux coup
 >
 > Si vous possédez un gros processeur , privilégiez plutôt [`Medal`]() ou [`Outplayed`]() pour forcer l'enregistrement sur votre processeur
