@@ -2,6 +2,8 @@
 [![Discord SdB](https://img.shields.io/discord/258541615017099264.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/sdb)
 
 ### Dans ce guide vous trouverais une aide complète pour faire un clip de vos sessions en jeu
+*Penser a cliquer sur cette iconne pour faire dérouler le texte quand elle est présente : `▶`*
+
 Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple a prendre en main :
 
 - [Geforce Experience](https://www.nvidia.com/fr-fr/geforce/geforce-experience/)
@@ -17,7 +19,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 > Plus d'informations [ici](#performances).
 
 ## Avantages et inconvénient
-<details open>
+<details>
 	<summary>Oui mais du coup, le quel choisir ?</summary>
 
   - Geforce Experience :
@@ -66,7 +68,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 </details>
 
 > [!TIP]
-> Résumé :
+> En résumé :
 > 
 > Si vous possédez une grosse carte graphique, passez directement par le logiciel de votre carte graphique [`Geforce Experience`]() ou [`Radeon ReLive`](). Le logiciel est nécéssaire pour mettre a jour votre carte grapgique également, donc d'une pierre deux coup
 >
@@ -76,10 +78,72 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 
 ## Guide d'installation, configuration et d'utilisation
 
+#### Geforce experience
+<details>
+  <summary>Installation</summary>
+  blabalbla
+</details>
+<details>
+  <summary>Configuration</summary>
+</details>
+<details>
+  <summary>Utilisation ?</summary>
+  
+</details>
+
+#### Radeon ReLive
+<details>
+  <summary>Installation</summary>
+</details>
+<details>
+  <summary>Configuration</summary>
+</details>
+<details>
+  <summary>Utilisation ?</summary>
+  
+</details>
+
+#### Seelseries moments
+<details>
+  <summary>Installation</summary>
+</details>
+<details>
+  <summary>Configuration</summary>
+</details>
+<details>
+  <summary>Utilisation ?</summary>
+  
+</details>
+
+#### Medal
+<details>
+  <summary>Installation</summary>
+</details>
+<details>
+  <summary>Configuration</summary>
+</details>
+<details>
+  <summary>Utilisation ?</summary>
+  
+</details>
+
+#### Outplayed
+<details>
+  <summary>Installation</summary>
+</details>
+<details>
+  <summary>Configuration</summary>
+</details>
+<details>
+  <summary>Utilisation ?</summary>
+  
+</details>
+
 ## Performances
 <details>
   <summary>Comment choisir un logiciel selon les ressources du pc</summary>
   
 </details>
 
+##### *Merci pour votre lecture, si jamais vous avez des suggestions, nhésitez pas a nous en faire part via le bot `Opérateur SdB` sur le serveur*<br/>Le bô esprit, le bô jeu.
 [![logo](https://raw.githubusercontent.com/MrLixm/Sdb.branding/main/brand/header/twitter/variantB/SdB.header.twitter.master.png)](https://discord.gg/sdb)
