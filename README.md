@@ -1,7 +1,7 @@
 # Guide d'enregistrement d'écran pour la Salle de Briefing
 [![Discord SdB](https://img.shields.io/discord/258541615017099264.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/sdb)
 
-## ⚠ Guide en cour de conception, c'est une ébauche sans travail de relecture ⚠
+## ⚠ Guide en cour de conception, c'est une ébauche sans travail de relecture
 
 ### Dans ce guide vous trouverais une aide complète pour faire un clip de vos sessions en jeu
 *Penser a cliquer sur cette iconne pour faire dérouler le texte quand elle est présente : `▶`*
