@@ -25,6 +25,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 	🟢 En une touche enregistre les X dernières minutes
 	🟢 Capture en qualitée élevée
 	🟢 Permet de stream et de mettre en ligne ses vidéo sur youtube facilement
+	🔻 Les pc portable sont obliger d'être en jeux pour enregistrer
 	🔻 Limité uniquement aux carte graphique Nvidia
 	🔻 Prend les performances sur la carte graphique
 	```
@@ -34,9 +35,44 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 	🔻 Limité uniquement aux carte graphique Amd
 	🔻 Prend les performances sur la carte graphique
 	```
+
+- Seelseries moments :
+	```
+	🟢 En une touche enregistre les X dernières minutes
+	🟢 Capture en qualitée élevée
+	🟢 Permet  de mettre en ligne ses vidéo sur youtube (et autre) facilement
+	🟢 Peux compresser la vidéo pour la partager sur discord sans nitro (ou avec)
+	🔻 Prend les performances sur la mémoire
+	```
+
+- Medal:
+	```
+	🟢 En une touche enregistre les X dernières minutes
+	🟢 Capture en qualitée élevée
+	🟢 En un click fournis un lien pour voir le clip en ligne
+	🔻 Possède des pubs
+	🔻 Prend les performances sur le processeur ou sur la carte graphique (au choix)
+	```
+
+- Outplayed:
+	```
+	🟢 En une touche enregistre les X dernières minutes
+	🟢 Capture en qualitée élevée
+	🟢 En un click fournis un lien pour voir le clip en ligne
+	🔻 Possède des pubs
+	🔻 S'installe uniquement avec Overwolf, donc un logiciel en plus qui tourne sur le pc
+	🔻 Prend les performances sur le processeur ou sur la carte graphique (au choix)
+	```
+
+> Résumé :
+> Si vous possédez une grosse carte graphique, passez directement par le logiciel de votre carte graphique `Geforce Experience` ou `Radeon ReLive`. Le logiciel est nécéssaire pour mettre a jour votre carte grapgique également, donc d'une pierre deux coup
+>
+> Si vous possédez un gros processeur , privilégiez plutôt `Medal` ou `Outplayed` pour forcer l'enregistrement sur votre processeur
+>
+> Sinon, `Seelseries moments` est une bonne alternative, en utilisant la ram, généralement peu utiliser sur les jeux, et surtout a très peu d'impact sur les performances
 </details>
 
-## Guide d'installation et d'utilisation
+## Guide d'installation, configuration et d'utilisation
 
 ## Performances
 <details>
