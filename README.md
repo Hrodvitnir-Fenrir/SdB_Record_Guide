@@ -70,25 +70,42 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 > [!TIP]
 > En résumé :
 > 
-> Si vous possédez une grosse carte graphique, passez directement par le logiciel de votre carte graphique [`Geforce Experience`](#geforce-experience) ou [`Radeon ReLive`](#radeon-relive). Le logiciel est nécéssaire pour mettre a jour votre carte grapgique également, donc d'une pierre deux coup
+> Si vous possédez une grosse carte graphique, passez directement par le logiciel de votre carte graphique [`Geforce Experience`](#geforce-experience) ou [`Radeon ReLive`](#radeon-relive). Le logiciel est nécéssaire pour mettre a jour votre carte graphique également, donc d'une pierre deux coup.
 >
-> Si vous possédez un gros processeur , privilégiez plutôt [`Medal`](#medal) ou [`Outplayed`](#outplayed) pour forcer l'enregistrement sur votre processeur
+> Si vous possédez un gros processeur , privilégiez plutôt [`Medal`](#medal) ou [`Outplayed`](#outplayed) pour forcer l'enregistrement sur votre processeur.
 >
-> Sinon, [`Seelseries moments`](#seelseries-moments) est une bonne alternative, en utilisant la ram, généralement peu utiliser sur les jeux, et surtout a très peu d'impact sur les performances
+> Sinon, [`Seelseries moments`](#seelseries-moments) est une bonne alternative, en utilisant la ram, généralement peu utiliser sur les jeux, et surtout a très peu d'impact sur les performances.
 
 ## Guide d'installation, configuration et d'utilisation
 
 ### Geforce Experience
 <details>
   <summary>Installation</summary>
-  blabalbla
+  	<ul>
+		<li>
+  			Pour commencer télécharger l'installeur <a href="https://www.nvidia.com/fr-fr/geforce/geforce-experience/">ici.</a>
+			<br>
+			(<code>https://www.nvidia.com/fr-fr/geforce/geforce-experience/</code>)
+		</li>
+    	<li>
+			Une fois installé et connecté à GeForce Experience, vous pouvez activer la superposition en jeu si ce n'est pas déjà fait :
+      		<br>
+      		<img src="https://i.imgur.com/tOXaiWt.png" alt="Superposition en jeu">
+			<br>
+			<blockquote style="font-style: italic;">par ailleurs dans la section <code>pilotes</code>vous pouvez mettre a jour votre carte graphique Nvidia.</blockquote>
+    	</li>
+		<li>
+			Vous pouvez faire <code>Alt+z</code> pour ouvrir l'interface, vous aurez donc plusieurs options disponible : "Replay instantané", "Enregistrement", "Diffusion en direct".
+			<br>
+			Celui qui est intéréssant est le "Replay instantané" il permet d'enregistrer tout le long de votre session de jeu, mais de sauvgarder sur l'ordianteur seulement la portion que l'on désire.
+		</li>
+  	</ul>
 </details>
 <details>
   <summary>Configuration</summary>
 </details>
 <details>
   <summary>Utilisation ?</summary>
-  
 </details>
 
 ***
@@ -152,7 +169,8 @@ ___
 ## Performances
 <details>
   <summary>Comment choisir un logiciel selon les ressources du pc</summary>
-  
+    <blockquote>heyyy</blockquote>
+
 </details>
 
 ##### *Merci pour votre lecture, si jamais vous avez des suggestions, nhésitez pas a nous en faire part via le bot `Opérateur SdB` sur le serveur*<br/>Le bô esprit, le bô jeu.
