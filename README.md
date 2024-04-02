@@ -67,7 +67,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 	```
 </details>
 
-> [!TIP]
+
 > En résumé :
 > 
 > Si vous possédez une grosse carte graphique, passez directement par le logiciel de votre carte graphique [Geforce Experience](###Geforce-experience) ou [`Radeon ReLive`](###Radeon-ReLive). Le logiciel est nécéssaire pour mettre a jour votre carte grapgique également, donc d'une pierre deux coup
