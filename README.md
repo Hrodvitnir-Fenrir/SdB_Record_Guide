@@ -33,6 +33,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   🟢 En une touche enregistre les X dernières minutes
   🟢 Capture en qualitée élevée
   🟢 Permet de stream et de mettre en ligne les vidéos sur youtube (et autre) facilement
+  🔻 Aucune option d'édition pour vos clips vidéo
   🔻 Les pc portable sont obliger d'être en jeux pour enregistrer
   🔻 Limité uniquement aux carte graphique Nvidia
   🔻 Prend les performances sur la carte graphique
@@ -52,6 +53,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   🟢 Capture en qualitée élevée
   🟢 Permet  de mettre en ligne les vidéos sur youtube (et autre) facilement
   🟢 Peux compresser la vidéo pour la partager sur discord sans nitro (ou avec)
+  🟢 Quelques outils basiques pour l'édition de vos clips vidéo
   🔻 Limiter a enregistrer les 20 dernières minutes maximum, ne permet pas de faire d'enregistrement d'écran classique
   🔻 Prend les performances sur la mémoire
   ```
@@ -62,6 +64,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   🟢 En une touche enregistre les X dernières minutes
   🟢 Capture en qualitée élevée
   🟢 En un click fournis un lien pour voir le clip en ligne
+  🟢 Quelques outils basiques pour l'édition de vos clips vidéo
   🔻 Possède des pubs
   🔻 Prend les performances sur le processeur ou sur la carte graphique (au choix)
   ```
@@ -71,6 +74,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   🟢 En une touche enregistre les X dernières minutes
   🟢 Capture en qualitée élevée
   🟢 En un click fournis un lien pour voir le clip en ligne
+  🟢 Quelques outils basiques pour l'édition de vos clips vidéo
   🔻 Possède des pubs
   🔻 S'installe uniquement avec Overwolf, donc un logiciel en plus qui tourne sur le pc
   🔻 Prend les performances sur le processeur ou sur la carte graphique (au choix)
@@ -127,7 +131,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 			</li>
 			<li>
 			Capture vidéo ><br>Ici vous allez pouvoir choisir la durée de vos clips (enregitrer les X dernières minutes au moment d'appuyer sur <code>Alt+F10</code>).<br>La qualité de vos enregistrement, plus la qualitée est élevée, plus votre enregistrement prendra des performances et votre clip de la place sur vote pc.
-									<img src="https://i.imgur.com/xSu9K3h.png" alt="Enregistrement">
+			<img src="https://i.imgur.com/xSu9K3h.png" alt="Enregistrement">
 			</li>
 			<li>
 			Contôle de la confidentialité <span style="font-style: italic;">(Uniquement sur pc fixe)</span> > <br>Permet d'enregistrer votre écran totalement, et ne se limite pas a votre jeux
@@ -139,7 +143,9 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   <summary>Utilisation</summary>
 		Pour l'ancer l'enregistrement une fois en jeu pour avez seulement a lancer le replay instantané via le menu <code>Alt+z</code> ou avec le raccourci <code>Alt+Shift+F10</code>
 		<br>
-		Puis, en jeu quand vous voulez enregistrer les X dernières minutes, faire <code>Alt+F10</code> 
+		Puis, en jeu quand vous voulez enregistrer les X dernières minutes, faire <code>Alt+F10</code>
+		<br>
+		Vous retrouverais vos clips dans le dossier que vous avez défini dans les options d'enregistrement. Par défaut, il se trouve dans <code>C:\Users\{leNomDeVotrePc}\Videos\</code>
 		<br>
 		<img src="https://i.imgur.com/L6Ccv9v.png" alt="Enregistrement">
 </details>
@@ -150,13 +156,15 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 
 <details>
   <summary>Installation</summary>
+  WIP ⚠
 </details>
 <details>
   <summary>Configuration</summary>
+  WIP ⚠
 </details>
 <details>
   <summary>Utilisation ?</summary>
-  
+  WIP ⚠
 </details>
 
 ---
@@ -165,6 +173,18 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 
 <details>
   <summary>Installation</summary>
+  <ul>
+    <li>
+      Pour commencer télécharger l'installeur <a href="https://fr.steelseries.com/gg/moments">ici.</a>
+			<br>
+			(<code>https://fr.steelseries.com/gg/moments</code>)
+    </li>
+  	<li>
+		Une fois installé et connecté à steelseries vous pouvez activer <code>Moments</code> si ce n'est pas déjà fait:
+	  	<br>
+	  	<img src="https://i.imgur.com/x1ExAgV.png" alt="Capture en jeu">
+  	</li>
+  </ul>
 </details>
 <details>
   <summary>Configuration</summary>
