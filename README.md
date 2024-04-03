@@ -188,6 +188,29 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 </details>
 <details>
   <summary>Configuration</summary>
+  <!-- Contente toi de me faire la fermeture des balises, aucune suggestion de texte hormis la fermeture des balise ! -->
+  			<h4>Pour accéder aux options vous avez les praramètres en bas a gauche, puis tout en bas vous avez les options pour <code>Moments</code></h4>
+    <ul>
+    	<li>
+			<code>Capture et audio</code> > <br>Vous avez quelques options très sommaires, nous vous laissons les découvrir.
+		</li>
+    	<li>
+			<code>Paramètres de clip</code> > <br>Vous pouvez définir la durée de vos clips, la qualité de vos clips, et l'emlplacement de sauvgarde.<br>Attention, plus la qualité est élevée, plus la mémoire de votre pc sera utiliser.
+			<img src="https://i.imgur.com/d5kYXAq.png" alt="Paramètres de clip">
+		</li>
+    	<li>
+			<code>Détection des jeux</code> > <br>Si au lancement du jeu, moments ne vous propose pas de lancer l'enregistrement, vous pouvez ajouter manuellement vos jeux ici.<br>
+			<div class="markdown-alert markdown-alert-note">
+			<p class="markdown-alert-title" dir="auto">
+			<i class="fas fa-exclamation-circle"></i>&nbsp;A savoir !</p>
+  			<p>
+				Une fois le jeux détecté vous pouvez configurer...
+  			</p>
+			</div>
+		</li>
+    	<li></li>
+    	<li></li>
+    </ul>
 </details>
 <details>
   <summary>Utilisation ?</summary>
@@ -237,3 +260,4 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 ##### _Merci pour votre lecture, si jamais vous avez des suggestions, nhésitez pas a nous en faire part via le bot `Opérateur SdB` sur le serveur_<br/>Le bô esprit, le bô jeu.
 
 [![logo](https://raw.githubusercontent.com/MrLixm/Sdb.branding/main/brand/header/twitter/variantB/SdB.header.twitter.master.png)](https://discord.gg/sdb)
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
