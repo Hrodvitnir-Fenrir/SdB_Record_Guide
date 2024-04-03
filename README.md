@@ -117,7 +117,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 		</li>
 		<li>
 			Si vous cliquez sur l'engrenage pour les options, vous allez pouvoir modifier certaines choses a votre convenance :
-			<ol>
+			<ol start="1">
 			<li>
 			Raccorucis claiver > <br> Vous pouvez changer pour commencer le raccourcis pour ouvrir l'interfce superposée, <code>Alt+z</code> peut être préssé pendant vos session de jeux sans vouloir forcément ouvrir cette interface.<br>Vous pouvez également prendre connaissance des autres racourcis.<br>La partie intéréssante est <code>Enregistrement</code>:
 						<img src="https://i.imgur.com/vbRNzsh.png" alt="Enregistrement">
