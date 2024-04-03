@@ -116,7 +116,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 			<img src="https://i.imgur.com/lHEYzUW.png" alt="Présentation de l'overlay">
 		</li>
 		<li>
-			Si vous cliquez sur l'engrenage pour les options, vous allez pouvoir modifier certaines choses a votre convenance :
+			L'engrange a droite vous permet d'accèder aux options :
 			<ol type="1">
 			<li>
 			Raccorucis claiver > <br> Vous pouvez changer pour commencer le raccourcis pour ouvrir l'interfce superposée, <code>Alt+z</code> peut être préssé pendant vos session de jeux sans vouloir forcément ouvrir cette interface.<br>Vous pouvez également prendre connaissance des autres racourcis.<br>La partie intéréssante est <code>Enregistrement</code>:
