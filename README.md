@@ -109,40 +109,37 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 
 <details>
   <summary>Configuration</summary>
-	<ul>
-		<li>
-			Pour acceder au pannel il vous suffit de faire <code>Alt+z</code> <br>
-			<img src="https://i.imgur.com/lHEYzUW.png" alt="Présentation de l'overlay">
-		</li>
-		<li>
-			L'engrange a droite vous permet d'accèder aux options :
-			<ol type="1">
-			<li>
-			Raccorucis claiver > <br> Vous pouvez changer pour commencer le raccourcis pour ouvrir l'interfce superposée, <code>Alt+z</code> peut être préssé pendant vos session de jeux sans vouloir forcément ouvrir cette interface.<br>Vous pouvez également prendre connaissance des autres racourcis.<br>La partie intéréssante est <code>Enregistrement</code>:
-						<img src="https://i.imgur.com/vbRNzsh.png" alt="Enregistrement">
-			</li>
-			<li>
-			Enregistrements ><br>Ici vous pouvez définir dans quel dossier enregistrer vos vidéos.
-			</li>
-			<li>
-			Capture vidéo ><br>Ici vous allez pouvoir choisir la durée de vos clips (enregitrer les X dernières minutes au moment d'appuyer sur <code>Alt+F10</code>).<br>La qualité de vos enregistrement, plus la qualitée est élevée, plus votre enregistrement prendra des performances et votre clip de la place sur vote pc.
-			<img src="https://i.imgur.com/xSu9K3h.png" alt="Enregistrement">
-			</li>
-			<li>
-			Contôle de la confidentialité <span style="font-style: italic;">(Uniquement sur pc fixe)</span> > <br>Permet d'enregistrer votre écran totalement, et ne se limite pas a votre jeux
-			</li>
-			</ol> 
-		</li>
+
+- Pour acceder au pannel il vous suffit de faire `Alt+z`
+![Présentation de l'overlay](https://i.imgur.com/lHEYzUW.png)
+
+- L'engrange a droite vous permet d'accèder aux options :
+		
+	1. Raccorucis claiver > 
+   		Vous pouvez changer pour commencer le raccourcis pour ouvrir l'interfce superposée, `Alt+z` peut être préssé pendant vos session de jeux sans vouloir forcément ouvrir cette interface.
+		Vous pouvez également prendre connaissance des autres racourcis.
+		La partie intéréssante est `Enregistrement`:
+		![Raccourcis clavier](https://i.imgur.com/vbRNzsh.png)
+	2. Enregistrements >
+   		Ici vous pouvez définir dans quel dossier enregistrer vos vidéos.
+	
+	3. Capture vidéo >
+   		Ici vous allez pouvoir choisir la durée de vos clips (enregitrer les X dernières minutes au moment d'appuyer sur `Alt+F10`)
+		Et définir qualité de vos enregistrement, plus la qualitée est élevée, plus votre enregistrement prendra des performances et votre clip de la place sur vote pc.
+		![Capture vidéo](https://i.imgur.com/xSu9K3h.png)
+			
+	4. Contôle de la confidentialité *(Uniquement sur pc fixe)* > 
+   		Permet d'enregistrer votre écran totalement, et ne se limite pas a votre jeux
 </details>
+
 <details>
   <summary>Utilisation</summary>
-		Pour l'ancer l'enregistrement une fois en jeu pour avez seulement a lancer le replay instantané via le menu <code>Alt+z</code> ou avec le raccourci <code>Alt+Shift+F10</code>
-		<br>
-		Puis, en jeu quand vous voulez enregistrer les X dernières minutes, faire <code>Alt+F10</code>
-		<br>
-		Vous retrouverais vos clips dans le dossier que vous avez défini dans les options d'enregistrement. Par défaut, il se trouve dans <code>C:\Users\{leNomDeVotrePc}\Videos\</code>
-		<br>
-		<img src="https://i.imgur.com/L6Ccv9v.png" alt="Enregistrement">
+
+Pour l'ancer l'enregistrement une fois en jeu pour avez seulement a lancer le replay instantané via le menu `Alt+z` ou avec le raccourci `Alt+Shift+F10`
+Puis, en jeu quand vous voulez enregistrer les X dernières minutes, faire `Alt+F10`
+Vous retrouverais vos clips dans le dossier que vous avez défini dans les options d'enregistrement. Par défaut, il se trouve dans `C:\Users\{leNomDeVotrePc}\Videos\`
+![Enregistrement](https://i.imgur.com/L6Ccv9v.png)
+
 </details>
 
 ---
@@ -151,15 +148,15 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 
 <details>
   <summary>Installation</summary>
-  WIP ⚠
+WIP ⚠
 </details>
 <details>
   <summary>Configuration</summary>
-  WIP ⚠
+WIP ⚠
 </details>
 <details>
   <summary>Utilisation ?</summary>
-  WIP ⚠
+WIP ⚠
 </details>
 
 ---
