@@ -97,21 +97,16 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 
 <details>
   <summary>Installation</summary>
-  	<ul>
-		<li>
-  			Pour commencer télécharger l'installeur <a href="https://www.nvidia.com/fr-fr/geforce/geforce-experience/">ici.</a>
-			<br>
-			(<code>https://www.nvidia.com/fr-fr/geforce/geforce-experience/</code>)
-		</li>
-    	<li>
-			Une fois installé et connecté à GeForce Experience, vous pouvez activer la superposition en jeu si ce n'est pas déjà fait :
-      		<br>
-      		<img src="https://i.imgur.com/tOXaiWt.png" alt="Superposition en jeu">
-			<br>
-			<blockquote style="font-style: italic;">par ailleurs dans la section <code>pilotes</code> vous pouvez mettre a jour votre carte graphique Nvidia.</blockquote>
-    	</li>
-  	</ul>
+
+- Pour commencer télécharger l'installeur[ici.](https://www.nvidia.com/fr-fr/geforce/geforce-experience/)
+  `https://www.nvidia.com/fr-fr/geforce/geforce-experience/`
+
+- Une fois installé et connecté à GeForce Experience, vous pouvez activer la superposition en jeu si ce n'est pas déjà fait :
+![Superposition en jeu](https://i.imgur.com/tOXaiWt.png)
+
+	> par ailleurs dans la section `pilotes` vous pouvez mettre a jour votre carte graphique Nvidia
 </details>
+
 <details>
   <summary>Configuration</summary>
 	<ul>
@@ -188,7 +183,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 </details>
 <details>
   <summary>Configuration</summary>
-  <!-- Contente toi de me faire la fermeture des balises, aucune suggestion de texte hormis la fermeture des balise ! -->
+
   			<h4>Pour accéder aux options vous avez les praramètres en bas a gauche, puis tout en bas vous avez les options pour <code>Moments</code></h4>
     <ul>
     	<li>
@@ -200,14 +195,12 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 		</li>
     	<li>
 			<code>Détection des jeux</code> > <br>Si au lancement du jeu, moments ne vous propose pas de lancer l'enregistrement, vous pouvez ajouter manuellement vos jeux ici.<br>
-			<div class="markdown-alert markdown-alert-note">
-			<p class="markdown-alert-title" dir="auto">A savoir !</p>
-  			<p>
-				Une fois le jeux détecté vous pouvez configurer...
-  			</p>
-			</div>
+			
+			> **Note:** Useful information that users should know, even when skimming content.
+
 		</li>
-    	<li></li>
+    	<li>
+		</li>
     	<li></li>
     </ul>
 </details>
