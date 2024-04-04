@@ -172,7 +172,7 @@ WIP ⚠
 WIP ⚠
 </details>
 <details>
-  <summary>Utilisation ?</summary>
+  <summary>Utilisation</summary>
 WIP ⚠
 </details>
 
