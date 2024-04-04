@@ -173,7 +173,7 @@ WIP ⚠
 - Pour commencer télécharger l'installeur [ici.](https://fr.steelseries.com/gg/moments)
 `https://fr.steelseries.com/gg/moments`
 
-- Une fois installé et connecté à steelseries vous pouvez activer `Moments` si ce n'est pas déjà fait:
+- Une fois installé et connecté à Steelseries vous pouvez activer `Moments` si ce n'est pas déjà fait:
 ![Capture en jeu](https://i.imgur.com/x1ExAgV.png)
 > ❗ Depuis ce menu vous avez accès a toutes les options baisques, changement de qualité, le racourcis pour enregistrer, et autres.
 
@@ -220,9 +220,27 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/9b34e878-4
 
 <details>
   <summary>Installation</summary>
+
+- Pour commencer télécharger l'installeur [ici.](https://medal.tv/fr)
+`https://medal.tv/fr`
+
+- Une fois installé et connecté a Medal, tout devrais être fonctionnel
+![Menu Medal](https://i.imgur.com/7gzAmLo.png)
+
 </details>
 <details>
   <summary>Configuration</summary>
+
+##### Pour accéder aux options vous avez l'engrenage en bas a gauche de l'application
+
+`Audio et caméra` >
+	Ici vous pouvez définir ce que vous voulez enregistrer, entre uniquement le son du jeu, ou le son de votre pc (musique, discord, etc)
+	Ainsi que les options pour votre micro
+
+`Clip et enregistrements` >
+	
+
+
 </details>
 <details>
   <summary>Utilisation ?</summary>
