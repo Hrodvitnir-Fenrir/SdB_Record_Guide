@@ -201,7 +201,13 @@ WIP ⚠
 </details>
 <details>
   <summary>Utilisation</summary>
-  
+
+#### En jeu, normalement vous devriez recevoir une notification pour vous dire que `Moments` est prêt a enregistrer
+![Notification](https://i.imgur.com/Hd2X3Tj.png)
+> Si ce n'est pas le cas, ne paniquez pas, parfois `Moments` a du mal avec les noficiations, vous le verrais avec la notification bleue en bas a droite de votre barre des tâches sur l'application `Steelseries`
+![Notification](https://i.imgur.com/QFPB9gU.png)
+
+
 </details>
 
 ---
