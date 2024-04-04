@@ -15,6 +15,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 - [Seelseries moments](#seelseries-moments)
 - [Medal](#medal)
 - [Outplayed](#outplayed)
+- [OBS](#obs)
 
 > [!CAUTION]
 > Enregistrer son écran prend des performances sur votre système quoi qu'il arrive. Cependant, chaque logiciels d'enregistrement n'utilise pas les même ressources de votre pc.
@@ -78,6 +79,17 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   🔻 Possède des pubs
   🔻 S'installe uniquement avec Overwolf, donc un logiciel en plus qui tourne sur le pc
   🔻 Prend les performances sur le processeur ou sur la carte graphique (au choix)
+  ```
+
+- OBS:
+
+  ```
+  🟢 Capture en qualitée élevée
+  🟢 Permet de stream et de mettre en ligne les vidéos sur youtube (et autre) facilement
+  🔻 Prise en main moins simple
+  🔻 Aucune option d'édition pour vos clips vidéo
+  🔻 Ne possède pas de fonctionalité pour enregistrer les X dernières minutes
+  🔻 Prend de grosses performances sur le processeur
   ```
 
 </details>
@@ -291,7 +303,22 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/ac9d8b7c-3
   <summary>Configuration</summary>
 </details>
 <details>
-  <summary>Utilisation ?</summary>
+  <summary>Utilisation</summary>
+  
+</details>
+
+---
+
+### OBS
+
+<details>
+  <summary>Installation</summary>
+</details>
+<details>
+  <summary>Configuration</summary>
+</details>
+<details>
+  <summary>Utilisation</summary>
   
 </details>
 
