@@ -238,8 +238,32 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/9b34e878-4
 	Ainsi que les options pour votre micro
 
 `Clip et enregistrements` >
-	
 
+1. `Enregistrement général` >
+	Ici vous pouvez définir le temps du clip.
+	> (c'est a dire au moment ou vous cliquerais sur le racourcis cela enregistrera les X dernières minutes)
+
+	Ainsi que le raccourcis pour enregistrer
+	> Tu peux également définir plusieurs raccourcis pour enregistrer des clips de différentes durées
+
+	![Exemple de raccourcis](https://i.imgur.com/eLYKH11.png)
+
+2. `Qualité` >
+   	Ici vous pouvez définir la qualité de vos clips, plus la qualité est élevée, plus les performances de votre pc seront sollicitées ainsi que la taille du clip.
+	Vous pouvez également choisir si vous voulez que cela sois votre processeur (`CPU`) ou votre carte graphique (`GPU`) qui sois solliciter pour enregistrer.
+
+	![Exemple qualité](https://i.imgur.com/JFhGuMR.png)
+
+3. `Enregsitrement intégral` >
+	Par défaut cela lance un enregistrement pour toute la session de jeu 
+	*(du moment qu'il est lancé a sa fermeture)*
+	> ❗ Attention a la place que cela prend sur le disque !
+
+4. `Stockage` >
+	Vous pouvez définir une taille maximale d'enregistrement, cela supprimera les clips les plus anciens pour faire de la place pour les nouveaux.
+	Vous pouvez également définir l'emplacement de sauvegarde de vos clips.
+
+	![Exemple stockage](https://i.imgur.com/9fgGyuc.png)
 
 </details>
 <details>
