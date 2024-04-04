@@ -207,6 +207,7 @@ WIP ⚠
 	Si au lancement du jeu, moments ne vous propose pas de lancer l'enregistrement, vous pouvez ajouter manuellement vos jeux ici.
 
 	> [!NOTE]
+	>
 	> ❗ Moments vous propose d'enregistrer de 2 manières différentes, soit la capture du jeu ou de l'écran, si vous prenez la capture de jeu, l'enregistrment se limitera a votre jeu et au son de votre jeu, si vous prenez la capture d'écran, les sons tel que discord ou autre serons enregistrer également.
 	> ![Mode d'enregistrement](https://i.imgur.com/7LEzvMr.png)
 
@@ -270,7 +271,9 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/9b34e878-4
 3. `Enregsitrement intégral` >
 	Par défaut cela lance un enregistrement pour toute la session de jeu 
 	*(du moment qu'il est lancé a sa fermeture)*
+
 	> [!IMPORTANT]
+	>
 	> ❗ Attention a la place que cela prend sur le disque !
 
 4. `Stockage` >
@@ -335,7 +338,9 @@ Nous vous invitons lancer une partie avec le gestionaire des taches en fond sur 
 Dépendament des résultats, vous pouvez choisir un logiciel qui peux prendre les ressources qui sont le moins sollicitées.
 
 > [!TIP]
+> 
 > ![Gestionnaire des taches](https://i.imgur.com/t1jrgAX.png)
+> 
 > Dans cet exemple la mémoire est très peu sollicitée, ainsi que le processeur, donc `Seelseries moments` est un bon choix. Sinon `Medal` et `Outplayed` sont également de bon choix.
 
 
