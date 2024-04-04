@@ -209,7 +209,10 @@ WIP ⚠
 
 Une vois l'enregistrement fait vous pouvez le retrouver dans l'onglet `Moments` de l'apllcation `Steelseries`
 Depuis ce menu vous pouvez éditer votre clip, le partager, ou le supprimer.
-![Exemple](/SteelSeriesGGClient_5F4nBXEBaY.mp4)
+
+/SteelSeriesGGClient_5F4nBXEBaY.mp4
+
+https://i.imgur.com/7s8hVsY.mp4
 
 
 </details>
