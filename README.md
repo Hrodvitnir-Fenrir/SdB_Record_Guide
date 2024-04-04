@@ -210,14 +210,9 @@ WIP ⚠
 Une vois l'enregistrement fait vous pouvez le retrouver dans l'onglet `Moments` de l'apllcation `Steelseries`
 Depuis ce menu vous pouvez éditer votre clip, le partager, ou le supprimer.
 
-
-
+https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/9b34e878-4c5f-48dc-92ac-36426fb555a1
 
 </details>
-
-/SteelSeriesGGClient_5F4nBXEBaY.mp4
-
-https://i.imgur.com/7s8hVsY.mp4
 
 ---
 
