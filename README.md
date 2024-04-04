@@ -276,6 +276,8 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/9b34e878-4
 Une fois l'enregistrement fait vous pouvez le retrouver dans l'onglet `Library` de l'apllcation `Medal`
 Vous pouvez ensuite éditer le clip, créé un lien pour le partager, ou le supprimer.
 
+https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/ac9d8b7c-3f55-4849-a72b-434e59439e45
+
 </details>
 
 ---
