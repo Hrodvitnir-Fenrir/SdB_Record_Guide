@@ -41,6 +41,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   ```
 
 - Radeon ReLive (WIP ⚠):
+	*Ne possédant pas de carte graphique amd, cette partie du guide n'est pour le moment pas réalisable, navré pour la gêne.*
 
   ```
   🔻 Limité uniquement aux carte graphique Amd
@@ -161,7 +162,7 @@ Vous retrouverais vos clips dans le dossier que vous avez défini dans les optio
 ---
 
 ### Radeon ReLive
-
+*Ne possédant pas de carte graphique amd, cette partie du guide n'est pour le moment pas réalisable, navré pour la gêne.*
 <details>
   <summary>Installation</summary>
 WIP ⚠
