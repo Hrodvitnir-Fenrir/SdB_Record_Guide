@@ -194,10 +194,9 @@ WIP ⚠
 - `Détection des jeux` >
 	Si au lancement du jeu, moments ne vous propose pas de lancer l'enregistrement, vous pouvez ajouter manuellement vos jeux ici.
 
-> [!IMPORTANT]
+> [!TIP]
 > Moments vous propose d'enregistrer de 2 manières différentes, soit la capture du jeu ou de l'écran, si vous prenez la capture de jeu, l'enregistrment se limitera a votre jeu et au son de votre jeu, si vous prenez la capture d'écran, les sons tel que discord ou autre serons enregistrer également.
-
-![Mode d'enregistrement](https://i.imgur.com/7LEzvMr.png)
+> ![Mode d'enregistrement](https://i.imgur.com/7LEzvMr.png)
 
 </details>
 <details>
