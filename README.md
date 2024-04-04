@@ -297,7 +297,7 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/ac9d8b7c-3
 ---
 
 ### Outplayed
-
+*En cours de rédaction*
 <details>
   <summary>Installation</summary>
 </details>
@@ -312,7 +312,7 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/ac9d8b7c-3
 ---
 
 ### OBS
-
+*En cours de rédaction*
 <details>
   <summary>Installation</summary>
 </details>
@@ -336,7 +336,6 @@ Dépendament des résultats, vous pouvez choisir un logiciel qui peux prendre le
 > ![Gestionnaire des taches](https://i.imgur.com/t1jrgAX.png)
 > 
 > Dans cet exemple la mémoire est très peu sollicitée, ainsi que le processeur, donc `Seelseries moments` est un bon choix. Sinon `Medal` et `Outplayed` sont également de bon choix.
-
 
 </details>
 
