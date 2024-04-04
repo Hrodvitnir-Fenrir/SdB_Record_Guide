@@ -267,8 +267,15 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/9b34e878-4
 
 </details>
 <details>
-  <summary>Utilisation ?</summary>
-  
+  <summary>Utilisation</summary>
+
+#### En jeu, normalement vous devriez recevoir une notification pour vous dire que `Medal` est prêt a enregistrer ou directement depuis le menu medal
+
+![Notification](https://i.imgur.com/ugsLrss.png)
+
+Une fois l'enregistrement fait vous pouvez le retrouver dans l'onglet `Library` de l'apllcation `Medal`
+Vous pouvez ensuite éditer le clip, créé un lien pour le partager, ou le supprimer.
+
 </details>
 
 ---
