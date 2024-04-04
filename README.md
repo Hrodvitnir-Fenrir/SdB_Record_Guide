@@ -194,8 +194,7 @@ WIP ⚠
 - `Détection des jeux` >
 	Si au lancement du jeu, moments ne vous propose pas de lancer l'enregistrement, vous pouvez ajouter manuellement vos jeux ici.
 
-	> [!IMPORTANT]
-	> Moments vous propose d'enregistrer de 2 manières différentes, soit la capture du jeu ou de l'écran, si vous prenez la capture de jeu, l'enregistrment se limitera a votre jeu et au son de votre jeu, si vous prenez la capture d'écran, les sons tel que discord ou autre serons enregistrer également.
+	> ❗ Moments vous propose d'enregistrer de 2 manières différentes, soit la capture du jeu ou de l'écran, si vous prenez la capture de jeu, l'enregistrment se limitera a votre jeu et au son de votre jeu, si vous prenez la capture d'écran, les sons tel que discord ou autre serons enregistrer également.
 	> ![Mode d'enregistrement](https://i.imgur.com/7LEzvMr.png)
 
 </details>
@@ -207,6 +206,10 @@ WIP ⚠
 ![Notification](https://i.imgur.com/Hd2X3Tj.png)
 > Si ce n'est pas le cas, ne paniquez pas, parfois `Moments` a du mal avec les noficiations, vous le verrais avec la notification bleue en bas a droite de votre barre des tâches sur l'application `Steelseries`
 ![Notification](https://i.imgur.com/QFPB9gU.png)
+
+Une vois l'enregistrement fait vous pouvez le retrouver dans l'onglet `Moments` de l'apllcation `Steelseries`
+Depuis ce menu vous pouvez éditer votre clip, le partager, ou le supprimer.
+![Exemple](/SteelSeriesGGClient_5F4nBXEBaY.mp4)
 
 
 </details>
