@@ -99,12 +99,13 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   <summary>Installation</summary>
 
 - Pour commencer télécharger l'installeur[ici.](https://www.nvidia.com/fr-fr/geforce/geforce-experience/)
-  `https://www.nvidia.com/fr-fr/geforce/geforce-experience/`
+`https://www.nvidia.com/fr-fr/geforce/geforce-experience/`
 
 - Une fois installé et connecté à GeForce Experience, vous pouvez activer la superposition en jeu si ce n'est pas déjà fait :
 ![Superposition en jeu](https://i.imgur.com/tOXaiWt.png)
 
-	> par ailleurs dans la section `pilotes` vous pouvez mettre a jour votre carte graphique Nvidia
+> ❗ par ailleurs dans la section `pilotes` vous pouvez mettre a jour votre carte graphique Nvidia
+
 </details>
 
 <details>
@@ -113,23 +114,25 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 - Pour acceder au pannel il vous suffit de faire `Alt+z`
 ![Présentation de l'overlay](https://i.imgur.com/lHEYzUW.png)
 
-- L'engrange a droite vous permet d'accèder aux options :
-		
-	1. Raccorucis claiver > 
-   		Vous pouvez changer pour commencer le raccourcis pour ouvrir l'interfce superposée, `Alt+z` peut être préssé pendant vos session de jeux sans vouloir forcément ouvrir cette interface.
-		Vous pouvez également prendre connaissance des autres racourcis.
-		La partie intéréssante est `Enregistrement`:
-		![Raccourcis clavier](https://i.imgur.com/vbRNzsh.png)
-	2. Enregistrements >
-   		Ici vous pouvez définir dans quel dossier enregistrer vos vidéos.
-	
-	3. Capture vidéo >
-   		Ici vous allez pouvoir choisir la durée de vos clips (enregitrer les X dernières minutes au moment d'appuyer sur `Alt+F10`)
-		Et définir qualité de vos enregistrement, plus la qualitée est élevée, plus votre enregistrement prendra des performances et votre clip de la place sur vote pc.
-		![Capture vidéo](https://i.imgur.com/xSu9K3h.png)
-			
-	4. Contôle de la confidentialité *(Uniquement sur pc fixe)* > 
-   		Permet d'enregistrer votre écran totalement, et ne se limite pas a votre jeux
+- L'engrange a droite vous permet d'accèder aux options : 
+
+1. Raccorucis claiver >
+Vous pouvez changer pour commencer le raccourcis pour ouvrir l'interfce superposée, `Alt+z` peut être préssé pendant vos session de jeux sans vouloir forcément ouvrir cette interface.
+Vous pouvez également prendre connaissance des autres racourcis.
+La partie intéréssante est `Enregistrement`:
+![Raccourcis clavier](https://i.imgur.com/vbRNzsh.png) 
+
+1. Enregistrements >
+Ici vous pouvez définir dans quel dossier enregistrer vos vidéos. 
+
+1. Capture vidéo >
+Ici vous allez pouvoir choisir la durée de vos clips (enregitrer les X dernières minutes au moment d'appuyer sur `Alt+F10`)
+Et définir qualité de vos enregistrement, plus la qualitée est élevée, plus votre enregistrement prendra des performances et votre clip de la place sur vote pc.
+![Capture vidéo](https://i.imgur.com/xSu9K3h.png) 
+
+1. Contôle de la confidentialité _(Uniquement sur pc fixe)_ >
+Permet d'enregistrer votre écran totalement, et ne se limite pas a votre jeux
+
 </details>
 
 <details>
@@ -138,6 +141,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 Pour l'ancer l'enregistrement une fois en jeu pour avez seulement a lancer le replay instantané via le menu `Alt+z` ou avec le raccourci `Alt+Shift+F10`
 Puis, en jeu quand vous voulez enregistrer les X dernières minutes, faire `Alt+F10`
 Vous retrouverais vos clips dans le dossier que vous avez défini dans les options d'enregistrement. Par défaut, il se trouve dans `C:\Users\{leNomDeVotrePc}\Videos\`
+
 ![Enregistrement](https://i.imgur.com/L6Ccv9v.png)
 
 </details>
@@ -165,44 +169,38 @@ WIP ⚠
 
 <details>
   <summary>Installation</summary>
-  <ul>
-    <li>
-      Pour commencer télécharger l'installeur <a href="https://fr.steelseries.com/gg/moments">ici.</a>
-			<br>
-			(<code>https://fr.steelseries.com/gg/moments</code>)
-    </li>
-  	<li>
-		Une fois installé et connecté à steelseries vous pouvez activer <code>Moments</code> si ce n'est pas déjà fait:
-	  	<br>
-	  	<img src="https://i.imgur.com/x1ExAgV.png" alt="Capture en jeu">
-  	</li>
-  </ul>
+
+- Pour commencer télécharger l'installeur [ici.](https://fr.steelseries.com/gg/moments)
+`https://fr.steelseries.com/gg/moments`
+
+- Une fois installé et connecté à steelseries vous pouvez activer `Moments` si ce n'est pas déjà fait:
+![Capture en jeu](https://i.imgur.com/x1ExAgV.png)
+> ❗ Depuis ce menu vous avez accès a toutes les options baisques, changement de qualité, le racourcis pour enregistrer, et autres.
+
 </details>
 <details>
   <summary>Configuration</summary>
 
-  			<h4>Pour accéder aux options vous avez les praramètres en bas a gauche, puis tout en bas vous avez les options pour <code>Moments</code></h4>
-    <ul>
-    	<li>
-			<code>Capture et audio</code> > <br>Vous avez quelques options très sommaires, nous vous laissons les découvrir.
-		</li>
-    	<li>
-			<code>Paramètres de clip</code> > <br>Vous pouvez définir la durée de vos clips, la qualité de vos clips, et l'emlplacement de sauvgarde.<br>Attention, plus la qualité est élevée, plus la mémoire de votre pc sera utiliser.
-			<img src="https://i.imgur.com/d5kYXAq.png" alt="Paramètres de clip">
-		</li>
-    	<li>
-			<code>Détection des jeux</code> > <br>Si au lancement du jeu, moments ne vous propose pas de lancer l'enregistrement, vous pouvez ajouter manuellement vos jeux ici.<br>
-			
-			> **Note:** Useful information that users should know, even when skimming content.
+#### Pour accéder aux options vous avez les praramètres en bas a gauche, puis tout en bas vous avez les options pour `Moments`
 
-		</li>
-    	<li>
-		</li>
-    	<li></li>
-    </ul>
+- `Capture et audio` >
+	Vous avez quelques options très sommaires, nous vous laissons les découvrir.
+
+- `Paramètres de clip` > 
+	Vous pouvez définir la durée de vos clips, la qualité de vos clips, et l'emlplacement de sauvgarde.
+	Attention, plus la qualité est élevée, plus la mémoire de votre pc sera utiliser.
+	![Paramètres de clip](https://i.imgur.com/d5kYXAq.png)
+
+- `Détection des jeux` >
+	Si au lancement du jeu, moments ne vous propose pas de lancer l'enregistrement, vous pouvez ajouter manuellement vos jeux ici.
+
+	> [!IMPORTANT]
+	> `Moments` vous propose d'enregistrer de 2 manières différentes, soit la capture du jeu ou de l'écran, si vous prenez la capture de jeu, l'enregistrment se limitera a votre jeu et au son de votre jeu, si vous prenez la capture d'écran, les sons tel que discord ou autre serons enregistrer également.
+	![Mode d'enregistrement](https://i.imgur.com/7LEzvMr.png)
+
 </details>
 <details>
-  <summary>Utilisation ?</summary>
+  <summary>Utilisation</summary>
   
 </details>
 
