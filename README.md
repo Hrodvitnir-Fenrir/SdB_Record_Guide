@@ -10,11 +10,11 @@ _Penser a cliquer sur cette iconne pour faire dérouler le texte quand elle est 
 
 Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple a prendre en main :
 
-- [Geforce Experience](https://www.nvidia.com/fr-fr/geforce/geforce-experience/)
-- [Radeon ReLive](https://www.amd.com/fr/support/kb/faq/relive-install)
-- [Seelseries moments](https://fr.steelseries.com/gg/moments)
-- [Medal](https://medal.tv/fr)
-- [Outplayed](https://go.overwolf.com/outplayed/)
+- [Geforce Experience](#geforce-experience)
+- [Radeon ReLive](#radeon-relive)
+- [Seelseries moments](#seelseries-moments)
+- [Medal](#medal)
+- [Outplayed](#outplayed)
 
 > [!CAUTION]
 > Enregistrer son écran prend des performances sur votre système quoi qu'il arrive. Cependant, chaque logiciels d'enregistrement n'utilise pas les même ressources de votre pc.
