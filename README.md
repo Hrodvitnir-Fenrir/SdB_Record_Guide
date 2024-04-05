@@ -103,6 +103,8 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 > Si vous possédez un gros processeur , privilégiez plutôt [`Medal`](#medal) ou [`Outplayed`](#outplayed) pour forcer l'enregistrement sur votre processeur.
 >
 > Sinon, [`Seelseries moments`](#seelseries-moments) est une bonne alternative, en utilisant la ram, généralement peu utiliser sur les jeux, et surtout a très peu d'impact sur les performances.
+>
+> `OBS` est très bien pour stream, pour de l'enregsitrement vidéo, beaucoup moins...
 
 ## Guide d'installation, configuration et d'utilisation
 
@@ -218,10 +220,12 @@ WIP ⚠
 #### En jeu, normalement vous devriez recevoir une notification pour vous dire que `Moments` est prêt a enregistrer
 ![Notification](https://i.imgur.com/Hd2X3Tj.png)
 > Si ce n'est pas le cas, ne paniquez pas, parfois `Moments` a du mal avec les noficiations, vous le verrais avec la notification bleue en bas a droite de votre barre des tâches sur l'application `Steelseries`
+> 
 > ![Notification](https://i.imgur.com/QFPB9gU.png)
 
-Une fois l'enregistrement fait vous pouvez le retrouver dans l'onglet `Moments` de l'apllcation `Steelseries`
+#### Une fois l'enregistrement fait vous pouvez le retrouver dans l'onglet `Moments` de l'apllcation `Steelseries`
 Depuis ce menu vous pouvez éditer votre clip, le partager, ou le supprimer.
+> Si vous partagez votre clip avec le bouton `Partager le clip`, un watermark sera présent sur votre clip, si vous partagez votre clip avec le bouton `Exporter`, il n'y aura pas de watermark. 
 
 https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/9b34e878-4c5f-48dc-92ac-36426fb555a1
 
