@@ -104,7 +104,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 >
 > Sinon, [`Seelseries moments`](#seelseries-moments) est une bonne alternative, en utilisant la ram, généralement peu utiliser sur les jeux, et surtout a très peu d'impact sur les performances.
 >
-> `OBS` est très bien pour stream, pour de l'enregsitrement vidéo, beaucoup moins...
+> [`OBS`](#obs) est très bien pour stream, pour de l'enregsitrement vidéo, beaucoup moins...
 
 ## Guide d'installation, configuration et d'utilisation
 
