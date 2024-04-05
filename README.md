@@ -339,7 +339,7 @@ Nous vous invitons lancer une partie avec le gestionaire des taches en fond sur 
 Dépendament des résultats, vous pouvez choisir un logiciel qui peux prendre les ressources qui sont le moins sollicitées.
 > ![Gestionnaire des taches](https://i.imgur.com/t1jrgAX.png)
 > 
-> Dans cet exemple la mémoire est très peu sollicitée, ainsi que le processeur, donc `Seelseries moments` est un bon choix. Sinon `Medal` et `Outplayed` sont également de bon choix.
+> Dans cet exemple la mémoire est très peu sollicitée, ainsi que le processeur, donc `Seelseries moments` est un bon choix. Sinon `Medal` et `Outplayed` sont également de bon choix. Sinon si la carte graphique était peu sollicitée, `Geforce Experience` ou `Radeon ReLive` aurait été un bon choix.
 
 </details>
 
