@@ -76,6 +76,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   🟢 Capture en qualitée élevée
   🟢 En un click fournis un lien pour voir le clip en ligne
   🟢 Quelques outils basiques pour l'édition de vos clips vidéo
+  🔻 Vous devez fermer votre jeux pour avoir accès a vos clips
   🔻 Possède des pubs
   🔻 S'installe uniquement avec Overwolf, donc un logiciel en plus qui tourne sur le pc
   🔻 Prend les performances sur le processeur ou sur la carte graphique (au choix)
@@ -246,13 +247,13 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/9b34e878-4
 
 Pour accéder aux options vous avez l'engrenage en bas a gauche de l'application
 
-`Audio et caméra` >
+- `Audio et caméra` >
 	Ici vous pouvez définir ce que vous voulez enregistrer, entre uniquement le son du jeu, ou le son de votre pc (musique, discord, etc)
 	Ainsi que les options pour votre micro
 
-`Clip et enregistrements` >
+- `Clip et enregistrements` >
 
-1. `Enregistrement général` >
+  1. `Enregistrement général` >
 	Ici vous pouvez définir le temps du clip.
 	> (c'est a dire au moment ou vous cliquerais sur le racourcis cela enregistrera les X dernières minutes)
 
@@ -261,19 +262,19 @@ Pour accéder aux options vous avez l'engrenage en bas a gauche de l'application
 
 	![Exemple de raccourcis](https://i.imgur.com/eLYKH11.png)
 
-2. `Qualité` >
+  2. `Qualité` >
    	Ici vous pouvez définir la qualité de vos clips, plus la qualité est élevée, plus les performances de votre pc seront sollicitées ainsi que la taille du clip.
 	Vous pouvez également choisir si vous voulez que cela sois votre processeur (`CPU`) ou votre carte graphique (`GPU`) qui sois solliciter pour enregistrer.
 
 	![Exemple qualité](https://i.imgur.com/JFhGuMR.png)
 
-3. `Enregsitrement intégral` >
+  3. `Enregsitrement intégral` >
 	Par défaut cela lance un enregistrement pour toute la session de jeu 
 	*(du moment qu'il est lancé a sa fermeture)*
 
 	> ❗ Attention a la place que cela prend sur le disque !
 
-4. `Stockage` >
+  4. `Stockage` >
 	Vous pouvez définir une taille maximale d'enregistrement, cela supprimera les clips les plus anciens pour faire de la place pour les nouveaux.
 	Vous pouvez également définir l'emplacement de sauvegarde de vos clips.
 
@@ -301,16 +302,28 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/ac9d8b7c-3
 <details>
   <summary>Installation</summary>
 
-- Pour commancer télécharger l'installeur [ici.](https://go.overwolf.com/outplayed/)
+- Pour commancer télécharger l'installeur [ici.](https://go.overwolf.com/outplayed/) `https://go.overwolf.com/outplayed/`
 > Outplayed fonctionne avec Overwolf, c'est une application qui va s'installer automatiquement avec Outplayed
 
 - Une fois installé, et quelques options sommaires, tout devrais être fonctionnel.
 ![Menu Outplayed](https://i.imgur.com/fa9VpFU.png)
 
-
 </details>
 <details>
   <summary>Configuration</summary>
+
+Pour accéder aux options vous avez l'engrenage en bas a gauche de l'application
+
+- `Games` > Ici tu peux sélectionner les jeux ou tu veux que `Outplayed` enregistre
+
+- `Capture` > Tu peux définir la qualité des clips, définir si l'enregistrement se fait sur le processeur ou la carte graphique, et des options sur le son et la webcam
+![Capture](https://i.imgur.com/Gba6maN.png)
+
+- `Sotage` > Si vous voulez que `Outplayed` supprime automatiquement les clips les plus anciens pour faire de la place pour les nouveaux, vous pouvez définir une taille maximale d'enregistrement
+
+- `My games` > Pour chacun des jeux vous pouvez définir si vous voulez que `Outplayed` enregistre automatiquement ou non, la durée des clips `Before duration`, et les raccourcis.
+![My games](https://i.imgur.com/scNBlZx.png)
+
 </details>
 <details>
   <summary>Utilisation</summary>
