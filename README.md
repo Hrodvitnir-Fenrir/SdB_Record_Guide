@@ -314,7 +314,7 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/ac9d8b7c-3
 
 Pour accéder aux options vous avez l'engrenage en bas a gauche de l'application
 
-- `Games` > Ici tu peux sélectionner les jeux ou tu veux que `Outplayed` enregistre
+- `Games` > Ici tu peux sélectionner les jeux ou `Outplayed` enregistre
 
 - `Capture` > Tu peux définir la qualité des clips, définir si l'enregistrement se fait sur le processeur ou la carte graphique, et des options sur le son et la webcam
 ![Capture](https://i.imgur.com/Gba6maN.png)
