@@ -237,7 +237,7 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/9b34e878-4
 - Pour commencer télécharger l'installeur [ici.](https://medal.tv/fr)
 `https://medal.tv/fr`
 
-- Une fois installé et connecté a Medal, tout devrais être fonctionnel
+- Une fois installé et connecté a Medal, tout devrais être fonctionnel.
 ![Menu Medal](https://i.imgur.com/7gzAmLo.png)
 
 </details>
@@ -300,6 +300,14 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/ac9d8b7c-3
 *En cours de rédaction*
 <details>
   <summary>Installation</summary>
+
+- Pour commancer télécharger l'installeur [ici.](https://go.overwolf.com/outplayed/)
+> Outplayed fonctionne avec Overwolf, c'est une application qui va s'installer automatiquement avec Outplayed
+
+- Une fois installé, et quelques options sommaires, tout devrais être fonctionnel.
+![Menu Outplayed](https://i.imgur.com/fa9VpFU.png)
+
+
 </details>
 <details>
   <summary>Configuration</summary>
