@@ -40,7 +40,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   🔻 Prend les performances sur la carte graphique
   ```
 
-- Radeon ReLive (WIP ⚠):
+- Radeon ReLive :
 	*Ne possédant pas de carte graphique amd, cette partie du guide n'est pour le moment pas réalisable, navré pour la gêne.*
 
   ```
@@ -167,15 +167,12 @@ Vous retrouverais vos clips dans le dossier que vous avez défini dans les optio
 *Ne possédant pas de carte graphique amd, cette partie du guide n'est pour le moment pas réalisable, navré pour la gêne.*
 <details>
   <summary>Installation</summary>
-WIP ⚠
 </details>
 <details>
   <summary>Configuration</summary>
-WIP ⚠
 </details>
 <details>
   <summary>Utilisation</summary>
-WIP ⚠
 </details>
 
 ---
