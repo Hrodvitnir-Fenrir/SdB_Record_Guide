@@ -192,7 +192,7 @@ Vous retrouverais vos clips dans le dossier que vous avez défini dans les optio
 <details>
   <summary>Configuration</summary>
 
-#### Pour accéder aux options vous avez les praramètres en bas a gauche, puis tout en bas vous avez les options pour `Moments`
+Pour accéder aux options vous avez les praramètres en bas a gauche, puis tout en bas vous avez les options pour `Moments`
 
 - `Capture et audio` >
 	Vous avez quelques options très sommaires, nous vous laissons les découvrir.
@@ -213,13 +213,13 @@ Vous retrouverais vos clips dans le dossier que vous avez défini dans les optio
 <details>
   <summary>Utilisation</summary>
 
-#### En jeu, normalement vous devriez recevoir une notification pour vous dire que `Moments` est prêt a enregistrer
+En jeu, normalement vous devriez recevoir une notification pour vous dire que `Moments` est prêt a enregistrer
 ![Notification](https://i.imgur.com/Hd2X3Tj.png)
 > Si ce n'est pas le cas, ne paniquez pas, parfois `Moments` a du mal avec les noficiations, vous le verrais avec la notification bleue en bas a droite de votre barre des tâches sur l'application `Steelseries`
 > 
 > ![Notification](https://i.imgur.com/QFPB9gU.png)
 
-#### Une fois l'enregistrement fait vous pouvez le retrouver dans l'onglet `Moments` de l'apllcation `Steelseries`
+Une fois l'enregistrement fait vous pouvez le retrouver dans l'onglet `Moments` de l'apllcation `Steelseries`
 Depuis ce menu vous pouvez éditer votre clip, le partager, ou le supprimer.
 > Si vous partagez votre clip avec le bouton `Partager le clip`, un watermark sera présent sur votre clip, si vous partagez votre clip avec le bouton `Exporter`, il n'y aura pas de watermark. 
 
@@ -244,7 +244,7 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/9b34e878-4
 <details>
   <summary>Configuration</summary>
 
-##### Pour accéder aux options vous avez l'engrenage en bas a gauche de l'application
+Pour accéder aux options vous avez l'engrenage en bas a gauche de l'application
 
 `Audio et caméra` >
 	Ici vous pouvez définir ce que vous voulez enregistrer, entre uniquement le son du jeu, ou le son de votre pc (musique, discord, etc)
@@ -283,7 +283,7 @@ https://github.com/Hrodvitnir-Fenrir/SdB_Record_Guide/assets/44929201/9b34e878-4
 <details>
   <summary>Utilisation</summary>
 
-#### En jeu, normalement vous devriez recevoir une notification pour vous dire que `Medal` est prêt a enregistrer ou directement depuis le menu medal
+En jeu, normalement vous devriez recevoir une notification pour vous dire que `Medal` est prêt a enregistrer ou directement depuis le menu medal
 
 ![Notification](https://i.imgur.com/ugsLrss.png)
 
