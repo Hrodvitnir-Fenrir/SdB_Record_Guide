@@ -5,7 +5,6 @@
 ## ⚠ Guide en cour de conception, c'est une ébauche sans travail de relecture
 
 ### Dans ce guide vous trouverais une aide complète pour faire des clip de vos sessions en jeu
-
 _Penser a cliquer sur cette iconne pour faire dérouler le texte quand elle est présente : `▶`_
 
 Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple a prendre en main :
