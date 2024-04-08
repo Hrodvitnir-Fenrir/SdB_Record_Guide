@@ -317,11 +317,13 @@ Pour accéder aux options vous avez l'engrenage en bas a gauche de l'application
 - `Games` > Ici tu peux sélectionner les jeux ou `Outplayed` enregistre
 
 - `Capture` > Tu peux définir la qualité des clips, définir si l'enregistrement se fait sur le processeur ou la carte graphique, et des options sur le son et la webcam
+
 ![Capture](https://i.imgur.com/Gba6maN.png)
 
 - `Sotage` > Si vous voulez que `Outplayed` supprime automatiquement les clips les plus anciens pour faire de la place pour les nouveaux, vous pouvez définir une taille maximale d'enregistrement
 
 - `My games` > Pour chacun des jeux vous pouvez définir si vous voulez que `Outplayed` enregistre automatiquement ou non, la durée des clips `Before duration`, et les raccourcis.
+
 ![My games](https://i.imgur.com/scNBlZx.png)
 
 </details>
