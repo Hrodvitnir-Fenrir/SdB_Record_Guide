@@ -177,7 +177,7 @@ Vous retrouverais vos clips dans le dossier que vous avez défini dans les optio
 
 ---
 
-## Seelseries Moments
+### Seelseries Moments
 
 <details>
   <summary>Installation</summary>
