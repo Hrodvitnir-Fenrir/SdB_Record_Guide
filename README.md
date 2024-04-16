@@ -113,7 +113,7 @@ Nous n'allons pas vous présenter tous les logiciels, seulement les plus simples
 <details>
   <summary>Installation</summary>
 
-- Pour commencer, téléchargez l'installeur[ici.](https://www.nvidia.com/fr-fr/geforce/geforce-experience/)
+- Pour commencer, téléchargez l'installeur [ici.](https://www.nvidia.com/fr-fr/geforce/geforce-experience/)
 `https://www.nvidia.com/fr-fr/geforce/geforce-experience/`
 
 - Une fois installé et connecté à GeForce Experience, vous pouvez activer la superposition en jeu si ce n'est pas déjà fait :
