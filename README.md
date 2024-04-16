@@ -2,12 +2,12 @@
 
 [![Discord SdB](https://img.shields.io/discord/258541615017099264.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/sdb)
 
-## ⚠ Guide en cour de conception, c'est une ébauche sans travail de relecture
+## ⚠ Guide en cours de conception, c'est une ébauche sans travail de relecture
 
-### Dans ce guide vous trouverais une aide complète pour faire des clip de vos sessions en jeu
-_Penser a cliquer sur cette iconne pour faire dérouler le texte quand elle est présente : `▶`_
+### Dans ce guide vous trouverez une aide complète pour faire des clips de vos sessions de jeu
+_Pensez à cliquer sur cette iconne pour faire dérouler le texte quand elle est présente : `▶`_
 
-Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple a prendre en main :
+Nous n'allons pas vous présenter tous les logiciels, seulement les plus simples à prendre en main :
 
 - [Geforce Experience](#geforce-experience)
 - [Radeon ReLive](#radeon-relive)
@@ -17,25 +17,25 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 - [OBS](#obs)
 
 > [!CAUTION]
-> Enregistrer son écran prend des performances sur votre système quoi qu'il arrive. Cependant, chaque logiciels d'enregistrement n'utilise pas les même ressources de votre pc.
-> Nous vous invitons du coup à regarder ce que votre pc consomme le moins pendant vos session de jeux, et de choisir en dépend le logiciel si votre appareil a des performances limitées
+> Enregistrer son écran prend des performances sur votre système quoi qu'il arrive. Cependant, chaque logiciel d'enregistrement n'utilise pas les mêmes ressources de votre pc.
+> Nous vous invitons du coup à regarder ce que votre pc consomme le moins pendant vos sessions de jeux, et de choisir en fonction le logiciel si votre appareil a des performances limitées
 >
 > Plus d'informations [ici](#performances).
 
-## Avantages et inconvénient
+## Avantages et inconvénients
 
 <details>
-	<summary>Oui mais du coup, le quel choisir ?</summary>
+	<summary>Oui mais du coup, lequel choisir ?</summary>
 
 - Geforce Experience :
 
   ```
-  🟢 En une touche enregistre les X dernières minutes
+  🟢 En une touche, enregistre les X dernières minutes
   🟢 Capture en qualitée élevée
-  🟢 Permet de stream et de mettre en ligne les vidéos sur youtube (et autre) facilement
+  🟢 Permet de stream et de mettre en ligne les vidéos sur youtube (et autres) facilement
   🔻 Aucune option d'édition pour vos clips vidéo
-  🔻 Les pc portable sont obliger d'être en jeux pour enregistrer
-  🔻 Limité uniquement aux carte graphique Nvidia
+  🔻 Les pc portables sont obligés d'être en jeu pour enregistrer
+  🔻 Limité uniquement aux cartes graphiques Nvidia
   🔻 Prend les performances sur la carte graphique
   ```
 
@@ -43,28 +43,28 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 	*Ne possédant pas de carte graphique amd, cette partie du guide n'est pour le moment pas réalisable, navré pour la gêne.*
 
   ```
-  🔻 Limité uniquement aux carte graphique Amd
+  🔻 Limité uniquement aux cartes graphiques Amd
   🔻 Prend les performances sur la carte graphique
   ```
 
 - Seelseries moments :
 
   ```
-  🟢 En une touche enregistre les X dernières minutes
+  🟢 En une touche, enregistre les X dernières minutes
   🟢 Capture en qualitée élevée
-  🟢 Permet  de mettre en ligne les vidéos sur youtube (et autre) facilement
-  🟢 Peux compresser la vidéo pour la partager sur discord sans nitro (ou avec)
+  🟢 Permet de mettre en ligne les vidéos sur youtube (et autre) facilement
+  🟢 Peut compresser la vidéo pour la partager sur discord sans nitro (ou avec)
   🟢 Quelques outils basiques pour l'édition de vos clips vidéo
-  🔻 Limiter a enregistrer les 20 dernières minutes maximum, ne permet pas de faire d'enregistrement d'écran classique
+  🔻 Limité à enregistrer les 20 dernières minutes maximum, ne permet pas de faire d'enregistrement d'écran classique
   🔻 Prend les performances sur la mémoire
   ```
 
 - Medal:
 
   ```
-  🟢 En une touche enregistre les X dernières minutes
+  🟢 En une touche, enregistre les X dernières minutes
   🟢 Capture en qualitée élevée
-  🟢 En un click fournis un lien pour voir le clip en ligne
+  🟢 En un clic, fournis un lien pour voir le clip en ligne
   🟢 Quelques outils basiques pour l'édition de vos clips vidéo
   🔻 Possède des pubs
   🔻 Prend les performances sur le processeur ou sur la carte graphique (au choix)
@@ -72,13 +72,13 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 
 - Outplayed:
   ```
-  🟢 En une touche enregistre les X dernières minutes
+  🟢 En une touche, enregistre les X dernières minutes
   🟢 Capture en qualitée élevée
-  🟢 En un click fournis un lien pour voir le clip en ligne
+  🟢 En un clic, fournis un lien pour voir le clip en ligne
   🟢 Quelques outils basiques pour l'édition de vos clips vidéo
-  🔻 Vous devez fermer votre jeux pour avoir accès a vos clips
+  🔻 Vous devez fermer votre jeu pour avoir accès à vos clips
   🔻 Possède des pubs
-  🔻 S'installe uniquement avec Overwolf, donc un logiciel en plus qui tourne sur le pc
+  🔻 S'installe uniquement avec Overwolf, donc un logiciel de plus qui tourne sur le pc
   🔻 Prend les performances sur le processeur ou sur la carte graphique (au choix)
   ```
 
@@ -89,7 +89,7 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
   🟢 Permet de stream et de mettre en ligne les vidéos sur youtube (et autre) facilement
   🔻 Prise en main moins simple
   🔻 Aucune option d'édition pour vos clips vidéo
-  🔻 Ne possède pas de fonctionalité pour enregistrer les X dernières minutes
+  🔻 Ne possède pas de fonctionnalité pour enregistrer les X dernières minutes
   🔻 Prend de grosses performances sur le processeur
   ```
 
@@ -102,9 +102,9 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 >
 > Si vous possédez un gros processeur , privilégiez plutôt [`Medal`](#medal) ou [`Outplayed`](#outplayed) pour forcer l'enregistrement sur votre processeur.
 >
-> Sinon, [`Seelseries moments`](#seelseries-moments) est une bonne alternative, en utilisant la ram, généralement peu utiliser sur les jeux, et surtout a très peu d'impact sur les performances.
+> Sinon, [`Seelseries moments`](#seelseries-moments) est une bonne alternative, en utilisant la ram, généralement peu utilisée sur les jeux, et surtout a très peu d'impact sur les performances.
 >
-> [`OBS`](#obs) est très bien pour stream, pour de l'enregsitrement vidéo, beaucoup moins...
+> [`OBS`](#obs) est très bien pour stream, pour de l'enregistrement vidéo, beaucoup moins...
 
 ## Guide d'installation, configuration et d'utilisation
 
@@ -113,31 +113,31 @@ Nous n'allons pas vous présenter tout les logiciels, seulement les plus simple 
 <details>
   <summary>Installation</summary>
 
-- Pour commencer télécharger l'installeur[ici.](https://www.nvidia.com/fr-fr/geforce/geforce-experience/)
+- Pour commencer, téléchargez l'installeur[ici.](https://www.nvidia.com/fr-fr/geforce/geforce-experience/)
 `https://www.nvidia.com/fr-fr/geforce/geforce-experience/`
 
 - Une fois installé et connecté à GeForce Experience, vous pouvez activer la superposition en jeu si ce n'est pas déjà fait :
 ![Superposition en jeu](https://i.imgur.com/tOXaiWt.png)
 
-> ❗ par ailleurs dans la section `pilotes` vous pouvez mettre a jour votre carte graphique Nvidia
+> ❗ Par ailleurs, dans la section `pilotes` vous pouvez mettre à jour votre carte graphique Nvidia
 
 </details>
 
 <details>
   <summary>Configuration</summary>
 
-- Pour acceder au pannel il vous suffit de faire `Alt+z`
+- Pour acceder au pannel, il vous suffit de faire `Alt+z`
 ![Présentation de l'overlay](https://i.imgur.com/lHEYzUW.png)
 
-- L'engrange a droite vous permet d'accèder aux options : 
+- L'engrange à droite vous permet d'accéder aux options : 
 
-1. Raccorucis claiver >
-Vous pouvez changer pour commencer le raccourcis pour ouvrir l'interfce superposée, `Alt+z` peut être préssé pendant vos session de jeux sans vouloir forcément ouvrir cette interface.
+1. Raccourcis claiver >
+Pour commencer, vous pouvez changer le raccourci pour ouvrir l'interface superposée, `Alt+z` peut être préssé pendant vos sessions de jeu sans vouloir forcément ouvrir cette interface.
 Vous pouvez également prendre connaissance des autres racourcis.
 La partie intéréssante est `Enregistrement`:
 ![Raccourcis clavier](https://i.imgur.com/vbRNzsh.png) 
 
-1. Enregistrements >
+1. Enregistrement >
 Ici vous pouvez définir dans quel dossier enregistrer vos vidéos. 
 
 1. Capture vidéo >
